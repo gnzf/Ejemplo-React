@@ -7,13 +7,13 @@ import { useState, useEffect } from 'react'
 
 const libros = [
     {
-      imagen: "../../public/header.jpg",
+      imagen: "/header.jpg",
       nombre: "Libro Header",
       precio: "$500",
       id: 1,
     },
     {
-      imagen: "../../public/zeus3.jpg",
+      imagen: "/zeus3.jpg",
       nombre: "Libro zeuz",
       precio: "$540",
       id: 2,
